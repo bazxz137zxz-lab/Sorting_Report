@@ -4,7 +4,7 @@ Báo cáo bài tập về các thuật toán sắp xếp cơ bản (IT003)
 Sinh viên thực hiện: Đinh Nguyễn Bảo Anh
 
 Repo gồm:
-1. File báo cáo
+1. File báo cáo (report/25520042_Sorting_Report.pdf)
 2. Mã nguồn sinh test (src_sinh_test/gentest.py)
 3. Mã nguồn chạy test (src_sort/testcode.py và src/testcode.cpp)
 
